@@ -1,0 +1,4 @@
+lostindc.github.io
+==================
+
+blog
